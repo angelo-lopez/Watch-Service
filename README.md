@@ -5,4 +5,4 @@ when it detects the creation of a designated file or when the path/directory has
 
 Console Output:
 
-![Sample console output] (https://raw.githubusercontent.com/angelo-lopez/Watch-Service/master/Screenshot%202020-06-15%20at%2022.01.43.png)
+![Sample console output](https://raw.githubusercontent.com/angelo-lopez/Watch-Service/master/Screenshot%202020-06-15%20at%2022.01.43.png)
